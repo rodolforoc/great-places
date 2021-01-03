@@ -1,16 +1,57 @@
-# great_places
+### My Meals
+Aplicação Mobile feita com [Flutter](https://flutter.dev/) para gerenciar uma coleção de lugares que você gostaria de salvar, com imagem e localização.
+## Tecnologias
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-A new Flutter project.
+### Interface
 
-## Getting Started
+<p align="center">
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places-02.png" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places-03.png" height="700">
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places-04.png" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places-05.png" height="700">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places-06.png" height="700">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src = "https://github.com/rodolforoc/great-places/blob/main/assets/great-places.gif" height="700">
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Funcionalidades da aplicação
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Adicionar novo lugar (Contendo Nome, Imagem e Localização).
+* Listagem dos lugares cadastrados.
+* Leitura de lugar específico.
+* Visualização da localização no mapa.
+* Acesso a Câmera
+* Acesso ao Maps
+* Dados armazenados no SQLite
+
+## Instalações e usos
+
+<h4 align="center">
+  ⚠️ Antes de rodar a aplicação, é necessário que o Emulador esteja rodando⚠️
+</h4>
+
+Clone ou faça o download desse repositório:
+
+```
+# Clone o repositório
+$ git clone https://github.com/rodolforoc/great-places
+```
+
+Dentro da pasta /great-places rode os seguintes comandos:
+
+```
+# Rode a Aplicação Mobile
+$ Run 'main.dart'
+
+# running on Emulator
+```
