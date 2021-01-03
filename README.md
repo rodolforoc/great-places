@@ -1,4 +1,4 @@
-### My Meals
+### Great Places
 Aplicação Mobile feita com [Flutter](https://flutter.dev/) para gerenciar uma coleção de lugares que você gostaria de salvar, com imagem e localização.
 ## Tecnologias
 - [Flutter](https://flutter.dev/)
